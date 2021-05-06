@@ -1,0 +1,152 @@
+body {
+    margin: 0;
+    padding: 0;
+
+}
+
+.clear{
+    clear:both
+}
+.header-wraper {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 1920px;
+    height: 100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    display: block;
+    background-color: hsl(0, 0%, 100%) 
+}
+
+.nav-c{
+display: inline-block;
+margin-left: 691px;
+margin-top: 40px;
+margin-bottom: 41px;
+
+}
+
+.logo {
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.nav-li {
+    display: inline-block;
+    padding: 0 20px;
+}
+
+ul li a {
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.buttom-c {
+    background-color: #005AFF;
+    color: white;
+   
+}
+
+.image-box {
+    position: relative;
+}
+
+/* image */
+.img-box {
+ font-size: 28px;
+ color: #E65571;
+ margin-left: 230px;
+ display: inline-block;
+ margin-bottom: 23px;
+}
+
+.img-box1 {
+    font-size: 28px;
+    color: #FF8A74;
+    display: inline-block;
+
+}
+
+.img-box2 {
+    font-size: 28px;
+    color:#00E089
+}
+
+
+
+
+.h-tag {
+    margin-left: 574px;
+    color: #284469;
+    margin-bottom: -34px;
+    margin-top: 9px;
+    display: inline-block;
+    
+}
+
+div {
+    border: 1px solid blue;
+    background-color: #F2F4F8;
+    margin-bottom: -35px;
+}
+
+.a-tegi {
+    font-size: 18px;
+    color: #284469;
+    font: arial;
+    margin-left: 400px;
+    display: inline-block;
+}
+
+.a-tegi1 {
+    font-size: 18px;
+    color: #284469;
+    font: arial;
+    margin-left: 980px;
+    display: inline-block;
+}
+
+.a-tegi2 {
+    font-size: 18px;
+    color: #284469;
+    font: arial;
+    margin-left: 1350px;
+    display: inline-block;
+}
+
+.h4-tegi {
+    font-size: 28px;
+    color: #E65571;
+    margin-left: 300px;
+    margin-bottom: 35px;
+    
+}
+
+.h4-tegi1 {
+    font-size: 28px;
+    color: #FF8A74;
+    margin-left: 950px;
+    margin-bottom: 150px;
+    display: inline-block;
+}
+
+.h4-tegi2 {
+    font-size: 28px;
+    color: #00E089;
+    margin-left: 1300px;
+display: inline-block;
+}
+
+.nav-tegi {
+   position: relative;
+   display: inline-block;
+   overflow: hidden;
+    text-decoration: none;
+}
+
+.li-tegi {
+    display: inline-block;
+    
+}
